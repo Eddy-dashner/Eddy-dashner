@@ -9,3 +9,5 @@ My name is Eddy Nzobarinda, and I come from Rwanda. I am a skilled software deve
 - 💬 Ask me about codes 
 - 📫 How to reach me: eddynzobarinda910@gmail.com
 - ⚡ Fun fact: i'm a Tech enthusiasts by day, gamer by night
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eddy-dashner)](https://github.com/anuraghazra/github-readme-stats)
