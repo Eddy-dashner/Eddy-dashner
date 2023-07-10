@@ -7,7 +7,7 @@ My name is Eddy Nzobarinda, and I come from Rwanda. I am a skilled software deve
 - 🌱 I’m currently learning typescript, python ,web3.py
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: eddynzobarinda910@gmail.com
-- - ⚡ Fun fact: When I'm not writing code, you can find me playing Pes or watching Arsenal.
+- ⚡ Fun fact: When I'm not writing code, you can find me playing Pes or watching Arsenal.
 
 
 
