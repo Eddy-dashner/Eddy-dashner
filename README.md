@@ -2,27 +2,27 @@
                        
 const Eddy Nzobarinda = {
 <br>
-  skills: ["Javascript", "React", "NodeJS", "SQL", "NoSQL", "Python"],
+      skills: ["Javascript", "React", "NodeJS", "SQL", "NoSQL", "Python"],
   <br>
-  location: "Rwanda",
+        location: "Rwanda",
    <br>
-  socials: {
+        socials: {
    <br>
-    twitter: "https://twitter.com/eddynzo",
+            twitter: "https://twitter.com/eddynzo",
      <br>
-    portfolio: "https://eddydashner.netlify.app/",
+            portfolio: "https://eddydashner.netlify.app/",
      <br>
-    linkedIn: "https://www.linkedin.com/in/eddy-nzobarinda-30b774225/",
-     <br>
-  },
-   <br>
-  FunFact: () => {
-   <br>
-    return "When I'm not writing code, you can find me playing Pes or watching Arsenal";
+            linkedIn: "https://www.linkedin.com/in/eddy-nzobarinda-30b774225/",
      <br>
   },
    <br>
-};
+      FunFact: () => {
+   <br>
+            return "When I'm not writing code, you can find me playing Pes or watching Arsenal";
+     <br>
+    },
+   <br>
+  };
  <br>
 
 
