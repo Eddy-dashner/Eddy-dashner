@@ -10,7 +10,7 @@ const Eddy: Nzoabrinda = {
                        <br> website: "https://eddydashner.netlify.app/",
    <br> linkedIn: "https://www.linkedin.com/in/eddy-nzobarinda-30b774225/",
   <br>},
- <br> funFact: () => {
+ <br> funFact: ( ) => {
   <br>  return "When I'm not writing codes, you can find me playing Pes or watching Arsenal";
  <br> },
 <br>};
