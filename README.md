@@ -1,13 +1,6 @@
 ### Hi there 👋
 
-My name is Eddy Nzobarinda, and I come from Rwanda. I am a skilled software developer who is passionate about my work. I possess a solid background in programming and possess a natural talent for solving problems. I excel in designing inventive solutions and writing efficient code. I embarked on my software development journey in 2022 and have dedicated myself to constant skill improvement in order to remain up-to-date with the rapidly advancing technology industry.
-
-
-- 🔭 I’m currently creating an Hack planner using Python
-- 🌱 I’m currently learning typescript, python ,web3.py
-- 👯 I’m looking to collaborate on open source projects
-- 📫 How to reach me: eddynzobarinda910@gmail.com
-- ⚡ Fun fact: When I'm not writing code, you can find me playing Pes or watching Arsenal.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 
 
