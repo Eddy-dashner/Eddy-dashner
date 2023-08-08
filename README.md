@@ -1,6 +1,7 @@
 ### Hi there 👋
                        
 const Eddy Nzobarinda = {
+<br>
   skills: ["Javascript", "React", "NodeJS", "SQL", "NoSQL", "Python"],
   location: "Rwanda",
   socials: {
