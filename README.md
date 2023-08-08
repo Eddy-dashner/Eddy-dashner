@@ -3,16 +3,27 @@
 const Eddy Nzobarinda = {
 <br>
   skills: ["Javascript", "React", "NodeJS", "SQL", "NoSQL", "Python"],
+  <br>
   location: "Rwanda",
+   <br>
   socials: {
+   <br>
     twitter: "https://twitter.com/eddynzo",
+     <br>
     portfolio: "https://eddydashner.netlify.app/",
+     <br>
     linkedIn: "https://www.linkedin.com/in/eddy-nzobarinda-30b774225/",
+     <br>
   },
+   <br>
   FunFact: () => {
+   <br>
     return "When I'm not writing code, you can find me playing Pes or watching Arsenal";
+     <br>
   },
+   <br>
 };
+ <br>
 
 
 ![Eddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eddy-dashner&show_icons=true&theme=radical)
