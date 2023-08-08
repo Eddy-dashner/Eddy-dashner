@@ -1,17 +1,19 @@
 ### Hi there 👋
                        
-const kevin: Rukundo = {
-  skills: ["Javascript", "React", "NodeJS", "SQL", "NoSQL", "PHP"],
-  location: "Rwanda",
-  socials: {
-    twitter: "https://twitter.com/rukundokevin_",
-    website: "https://www.rukundokevin.tech",
-    linkedIn: "https://www.linkedin.com/in/rukundokevin",
-  },
-  favoriteMovie: () => {
-    return "The Shawshank Redemption";
-  },
-};
+const Eddy: Nzoabrinda = {
+<br>
+  skills: ["Javascript", "React", "NodeJS", "SQL", "NoSQL", "Python"],
+ 
+ <br> location: "Rwanda",
+  <br>socials: {
+   <br> twitter: "https://twitter.com/eddynzo",
+   <br> website: "https://eddydashner.netlify.app/",
+   <br> linkedIn: "https://www.linkedin.com/in/eddy-nzobarinda-30b774225/",
+  <br>},
+ <br> funFact: () => {
+  <br>  return "When I'm not writing codes, you can find me playing Pes or watching Arsenal";
+ <br> },
+<br>};
 
 
 ![Eddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eddy-dashner&show_icons=true&theme=radical)
