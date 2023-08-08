@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?eddynzobarinda=eddynzobarinda&hide_progress=true)
-![Eddy's GitHub stats](https://github-readme-stats.vercel.app/api?eddynzobarinda=eddynzobarinda&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddynzobarinda&hide_progress=true)
+![Eddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddynzobarinda&show_icons=true&theme=radical)
 
 
 
