@@ -7,7 +7,7 @@ const Eddy: Nzoabrinda = {
  <br> location: "Rwanda",
   <br>socials: {
    <br> twitter: "https://twitter.com/eddynzo",
-   <br> website: "https://eddydashner.netlify.app/",
+                       <br> website: "https://eddydashner.netlify.app/",
    <br> linkedIn: "https://www.linkedin.com/in/eddy-nzobarinda-30b774225/",
   <br>},
  <br> funFact: () => {
