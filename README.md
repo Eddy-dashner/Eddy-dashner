@@ -5,12 +5,12 @@ const kevin: Rukundo = {
   skills: ["TypeScript", "React", "NodeJS", "SQL", "NoSQL", "PHP"],
   location: "Rwanda",
   socials: {
-    twitter: "https://twitter.com/rukundokevin_",
-    website: "https://www.rukundokevin.tech",
-    linkedIn: "https://www.linkedin.com/in/rukundokevin",
+    twitter: "https://twitter.com/eddynzo",
+    website: "https://eddydashner.netlify.app/",
+    linkedIn: "https://www.linkedin.com/in/eddy-nzobarinda-30b774225/",
   },
-  favoriteMovie: () => {
-    return "The Shawshank Redemption";
+  funFact:() => {
+    return "When I'm not writing code, you can find me playing Pes or watching Arsenal";
   },
 };
 ```
