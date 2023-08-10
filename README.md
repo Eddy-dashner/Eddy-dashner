@@ -1,8 +1,8 @@
 ### Hi there 👋
                        
 ```
-const kevin: Rukundo = {
-  skills: ["TypeScript", "React", "NodeJS", "SQL", "NoSQL", "PHP"],
+const Eddy: Nzobarinda = {
+  skills: ["Javascript","TypeScript", "NodeJS", "SQL", "NoSQL", "Python"],
   location: "Rwanda",
   socials: {
     twitter: "https://twitter.com/eddynzo",
