@@ -1,5 +1,11 @@
 ### Hi there 👋
                        
+
+
+
+![Eddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eddy-dashner&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 ```
 const Eddy: Nzobarinda = {
   skills: ["Javascript","TypeScript", "NodeJS", "SQL", "NoSQL", "Python"],
@@ -14,11 +20,6 @@ const Eddy: Nzobarinda = {
   },
 };
 ```
-
-
-![Eddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eddy-dashner&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
-
 
 
 
