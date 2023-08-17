@@ -3,8 +3,8 @@
 
 
 
-![Eddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eddy-dashner&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Eddy-dashner=anuraghazra&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Eddy-dashner=anuraghazra&hide_progress=true)
 
 ```
 const Eddy: Nzobarinda = {
