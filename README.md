@@ -1,7 +1,7 @@
 ### Hi there 👋
                        
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eddy-dashner_&show_icons=true&theme=default)](https://github.com/Eddy-dashner/github-readme-stats)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eddy-dashner&show_icons=true&theme=default)](https://github.com/Eddy-dashner/github-readme-stats)
 
 
 
