@@ -1,4 +1,4 @@
-### Hi there, i'm Eddy 👋
+### Hi there, i'm Eddy 👋💻
                        
 
 <a href="https://github.com/Eddy-dashner/convoychat">
