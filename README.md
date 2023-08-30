@@ -22,7 +22,7 @@ const Eddy: Nzobarinda = {
 };
 ```
 
-![Eddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eddy-dashner&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Eddy-dashner&theme=highcontrast&locale=rw&card_width=496)](https://git.io/streak-stats)
 
   ### Tools:
   
