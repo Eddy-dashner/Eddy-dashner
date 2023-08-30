@@ -2,7 +2,9 @@
                        
 
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Eddy-dashner&theme=highcontrast&locale=rw&card_width=496)](https://git.io/streak-stats)
 
 ```
