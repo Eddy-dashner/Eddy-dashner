@@ -4,7 +4,7 @@
 <a href="https://github.com/Eddy-dashner/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Eddy-dashner" />
 </a>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Eddy-dashner)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eddy-dashner&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
 
