@@ -2,7 +2,7 @@
                        
 
 <a href="https://github.com/Eddy-dashner/convoychat">
-  <img height="100" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eddy-dashner&layout=compact&langs_count=8&card_width=320&bg_color=000000&text_color=ffffff&title_color=ffffff" />
+  <img height="100" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eddy-dashner&layout=compact&langs_count=8&card_width=320&bg_color=000000&text_color=ffffff&title_color=ffffff" />
 </a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Eddy-dashner&theme=highcontrast&locale=rw&card_width=496)](https://git.io/streak-stats)
