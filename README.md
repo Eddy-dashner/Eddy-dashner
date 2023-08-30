@@ -16,7 +16,7 @@ const Eddy: Nzobarinda = {
 };
 ```
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Eddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eddy-dashner&show_icons=false&theme=highcontrast)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Eddy-dashner&theme=highcontrast&locale=rw&card_width=496)](https://git.io/streak-stats)
 
   ### Tools:
