@@ -4,8 +4,9 @@
 <a href="https://github.com/Eddy-dashner/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Eddy-dashner" />
 </a>
+<a>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Eddy-dashner&theme=highcontrast&locale=rw)](https://git.io/streak-stats)
-
+</a>
 
 
 
