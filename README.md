@@ -5,7 +5,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Eddy-dashner" />
 </a>
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Eddy-dashner&theme=highcontrast&locale=rw&card_width=496)](https://git.io/streak-stats)
 
 ```
 const Eddy: Nzobarinda = {
@@ -21,8 +21,6 @@ const Eddy: Nzobarinda = {
   },
 };
 ```
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Eddy-dashner&theme=highcontrast&locale=rw&card_width=496)](https://git.io/streak-stats)
 
   ### Tools:
   
