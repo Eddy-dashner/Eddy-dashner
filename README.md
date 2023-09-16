@@ -17,7 +17,7 @@ const Eddy: Nzobarinda = {
     linkedIn: "https://www.linkedin.com/in/eddy-nzobarinda-30b774225/",
   },
   funFact:() => {
-    return "When I'm not writing code, you can find me playing Pes or watching Arsenal";
+    return "When I'm not writing codes, you can find me playing Pes or watching Arsenal";
   },
 };
 ```
