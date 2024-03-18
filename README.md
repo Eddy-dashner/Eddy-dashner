@@ -5,7 +5,7 @@
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eddy-dashner&layout=compact&langs_count=8&card_width=320&bg_color=000000&text_color=ffffff&title_color=ffffff" />
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Eddy-dashner&theme=highcontrast&locale=rw&card_width=496)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Eddy-dashner&theme=dark)](https://git.io/streak-stats)
 
 ```
 const Eddy: Nzobarinda = {
