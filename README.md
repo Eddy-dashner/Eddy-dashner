@@ -10,6 +10,7 @@
 ```
 const Eddy: Nzobarinda = {
   skills: ["Javascript","TypeScript", "NodeJS", "SQL", "NoSQL", "Python"],
+  current upskilling: "Java",
   location: "Rwanda",
   socials: {
     twitter: "https://twitter.com/eddynzo",
