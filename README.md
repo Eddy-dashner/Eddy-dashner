@@ -9,7 +9,7 @@
 
 ```
 const Eddy: Nzobarinda = {
-  skills: ["Javascript","TypeScript", "NodeJS", "SQL", "NoSQL", "Python"],
+  skills: ["Java","SpringBoot","Javascript","TypeScript", "NodeJS", "SQL", "NoSQL", "Python"],
   current upskilling: "FinOps",
   location: "Rwanda",
   socials: {
